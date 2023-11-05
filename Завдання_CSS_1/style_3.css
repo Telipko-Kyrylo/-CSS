@@ -1,0 +1,27 @@
+body {
+    background: url("https://img.freepik.com/free-photo/white-concrete-wall_53876-92803.jpg?w=1060&t=st=1699173101~exp=1699173701~hmac=14bf0fe34b023ae81f71391eca756bac8e0b06022b9d08ca8cb06780a14e420d") no-repeat center center fixed;
+    background-size: cover;
+}
+a {
+    justify-content: center;
+    margin: 30px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS';
+}
+p {
+    margin: 30px;
+    width: 400px;
+    font-size: 200%;
+    border: 5px;
+    border-style: none none none dashed;
+    border-color: blue;
+    padding-left: 30px;
+}
+div {
+    width: 750px;
+    height: 400px;;
+    margin: 100px;
+    background-color: rgb(236, 206, 179);
+    padding: 7px;
+}
